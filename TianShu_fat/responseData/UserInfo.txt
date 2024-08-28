@@ -1,0 +1,8 @@
+{"code":200,"message":"success","path":"/v1.0/oauth2/user","data":{"id":"1236853758227382272","username":"wangsn","mobile":null,"email":null,"accountNonExpired":true,"accountNonLocked":true,"credentialsNonExpired":true,"enabled":true},"httpStatus":200,"extra":{},"timestamp":"1632733787860","ok":true}
+{"code":4000,"extra":{"err":"Full authentication is required to access this resource"},"httpStatus":200,"message":"no_login","ok":false,"path":"/v1.0/oauth2/user","timestamp":1632733787933}
+{"code":4000,"extra":{"err":"Full authentication is required to access this resource"},"httpStatus":200,"message":"no_login","ok":false,"path":"/v1.0/oauth2/user","timestamp":1632733788063}
+{"code":4000,"extra":{"err":"Full authentication is required to access this resource"},"httpStatus":200,"message":"no_login","ok":false,"path":"/v1.0/oauth2/user","timestamp":1632733788122}
+{"code":4000,"extra":{"err":"Full authentication is required to access this resource"},"httpStatus":200,"message":"no_login","ok":false,"path":"/v1.0/oauth2/user","timestamp":1632733788174}
+{"code":4000,"extra":{"err":"Full authentication is required to access this resource"},"httpStatus":200,"message":"no_login","ok":false,"path":"/v1.0/oauth2/user","timestamp":1632733788311}
+{"code":4000,"extra":{"err":"Full authentication is required to access this resource"},"httpStatus":200,"message":"no_login","ok":false,"path":"/v1.0/oauth2/user","timestamp":1632733788372}
+{"code":4000,"extra":{"err":"Full authentication is required to access this resource"},"httpStatus":200,"message":"no_login","ok":false,"path":"/v1.0/oauth2/user","timestamp":1632733788494}

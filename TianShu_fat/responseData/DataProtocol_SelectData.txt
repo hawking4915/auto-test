@@ -1,0 +1,20 @@
+{'msg': '高字节在前', 'code': 0}
+{'msg': '低字节在前', 'code': 1}
+{'msg': '版本号', 'action': 'ver', 'code': 0}
+{'msg': '飞行器标识', 'action': 'tid', 'code': 1}
+{'msg': '信源标识', 'action': 'sid', 'code': 2}
+{'msg': '信宿标识', 'action': 'did', 'code': 3}
+{'msg': '信息类型', 'action': 'bid', 'code': 4}
+{'msg': '包序号', 'action': 'pak', 'code': 5}
+{'msg': '保留FLAG', 'action': 'flag', 'code': 6}
+{'msg': '保留R', 'action': 'r', 'code': 7}
+{'msg': '日期', 'action': 'date', 'code': 8}
+{'msg': '时间', 'action': 'time', 'code': 9}
+{'msg': '数据域长度', 'action': 'len', 'code': 10}
+{'msg': '状态', 'action': 'status', 'code': 11}
+{'msg': '时标', 'action': 'timemark', 'code': 12}
+{'msg': '距离值', 'action': 'distance', 'code': 13}
+{'msg': '星地时差', 'action': 'timedeff', 'code': 14}
+{'msg': '接收机信噪比', 'action': 'receiversnr', 'code': 15}
+{'msg': '标志码', 'action': 'mark', 'code': 16}
+{'msg': '数据域', 'action': 'data', 'code': 17}
